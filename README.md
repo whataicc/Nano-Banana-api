@@ -4,6 +4,17 @@
 神马聚合中转API是一个高效的Nano Banana、Open AI、Midjourney API代理、Claude代理、Suno代理等供应商
 我们致力于提供优质的 API 接入服务，让您可以轻松集成先进的AI模型至您的产品和服务。通过 API 综合管理平台，无缝整合OpenAl最尖端的人工智能模型。借助我们可靠且易于使用的API解决方案，升级您的产品与服务。
 
+神马中转API是专为Nano Banana代理 API打造的高效中转服务，可帮助用户突破Nano Banana接口限制，实现更稳定、更灵活的调用体验。通过对上游请求进行优化与分发，神马中转能够显著提升调用成功率，让你在使用Nano Banana大模型时更自由、更顺畅。
+
+![神马聚合中转Nano Banana中转站_Nano Banana转发API_Nano Banana api key购买_低价稳定Nano Banana API_国内直连Nano Banana](https://pic.imgdd.cc/item/69171743c828c4c6def4847e.jpg)  
+
+同时，神马中转 API 提供简洁直观的可视化管理面板，无需复杂配置即可完成密钥管理、请求监控、限流设置等操作，让开发与调试变得更轻松。无论是日常对接还是大规模应用部署，都能让你的 Nano Banana 使用体验全面升级。
+
+神马中转API上方菜单-聊天-Nano Banner画图-输入提示词、上传参考图、生成保存图片
+
+![【Nano Banana超详细使用教程】：从入门到精通，一文搞懂Gemini 2.5 Flash Image全流程！Nano-banana怎么用/提示词/实战教程AI图像生成](https://pic.imgdd.cc/item/69144c44c828c4c6def08170.png)  
+
+
 让您能够轻松一站式接入各种 AI 服务
 
 价格优惠，仅需 2 元即可购买1美刀额度
